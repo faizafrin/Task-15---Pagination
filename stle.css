@@ -1,0 +1,64 @@
+*{
+    margin:5px;
+    text-align: left;
+}
+h1{
+     background-color:aquamarine;
+     padding-left: 50px;
+}  
+
+
+
+
+label {
+    display : inline;
+}
+p{
+    display: inline;
+}
+
+
+button{
+    background-color:aquamarine;
+    border: 10x solid black;
+    color: white;
+    padding: 5px 15px;
+    font-size: 15 px;
+    border-radius: 10px;
+    margin: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition-duration:0.5s;
+    display: inline-block;
+}
+button:hover {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+  }
+  .btn{
+    background-color: #3c0303;
+  }
+button{
+    margin-top: 10px;
+  }
+.abc{
+    color:black;
+}
+#para{
+    margin-left: 75px;
+}
+#name{
+    margin-left:57px;
+}
+#k{
+    flex: auto;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+}
+#email{
+    margin-left: 50px;
+}
